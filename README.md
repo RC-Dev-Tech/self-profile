@@ -4,3 +4,6 @@
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RC-Dev-Tech&theme=ayu-light&border_radius=4)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/RC-Dev-Tech/RC-Dev-Tech/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=RC-Dev-Tech&color=blue&style=flat-square)
