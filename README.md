@@ -11,6 +11,6 @@
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RC-Dev-Tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RC-Dev-Tech&theme=ayu-light&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RC-Dev-Tech&theme=ayu-light&border_radius=4&locale=zh_Hant)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=RC-Dev-Tech&color=blue&style=flat-square)
