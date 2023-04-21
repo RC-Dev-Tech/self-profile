@@ -2,8 +2,9 @@
 ### ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 範例實實實作
 * [GOF設計模式](https://github.com/RC-Dev-Tech/design-pattern-index) <br>
 * [NodeJs系列實作](https://github.com/RC-Dev-Tech/nodejs-index) <br>
-* [工具操作](https://github.com/RC-Dev-Tech/tools-index) <br>
-* [其他](https://github.com/RC-Dev-Tech/other-index) <br>
+* [Tools](https://github.com/RC-Dev-Tech/tools-index) <br>
+* [Problem Solution](https://github.com/RC-Dev-Tech/problem-index) <br>
+* [Other](https://github.com/RC-Dev-Tech/other-index) <br>
 
 ![Snake animation](https://github.com/RC-Dev-Tech/RC-Dev-Tech/blob/output/github-contribution-grid-snake.svg)
 
