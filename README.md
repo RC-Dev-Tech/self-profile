@@ -3,7 +3,7 @@
 * [Algorithm](https://github.com/RC-Dev-Tech/algorithm-index) <br>
 * [Graphic Science](https://github.com/RC-Dev-Tech/graphic-science-index) <br>
 * [Design Pattern (GOF)](https://github.com/RC-Dev-Tech/design-pattern-index) <br>
-* Python
+* [Python](https://github.com/RC-Dev-Tech/python-index) <br>
 * [NodeJs](https://github.com/RC-Dev-Tech/nodejs-index) <br>
 * [Cocos Creator](https://github.com/RC-Dev-Tech/cocos-creator-index) <br>
 * [Tools](https://github.com/RC-Dev-Tech/tools-index) <br>
