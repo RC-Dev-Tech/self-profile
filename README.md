@@ -16,6 +16,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RC-Dev-Tech/RC-Dev-Tech/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+<br>
+
 <details>
 <p align="center">
   <a href="https://github.com/RC-Dev-Tech">
