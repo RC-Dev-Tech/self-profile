@@ -12,7 +12,6 @@
 
 ![Snake animation](https://github.com/RC-Dev-Tech/RC-Dev-Tech/blob/output/github-contribution-grid-snake.svg)
 
-
 <details>
 <p align="center">
   <a href="https://github.com/RC-Dev-Tech">
